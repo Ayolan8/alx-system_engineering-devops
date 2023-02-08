@@ -1,1 +1,1 @@
-Work on to work Shell and vi
+Work on Shell and Vi
